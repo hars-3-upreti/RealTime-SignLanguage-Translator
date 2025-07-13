@@ -1,0 +1,12 @@
+# Recommended Python version: >=3.10,<3.11
+
+torch
+torchvision
+torchaudio
+pytorchvideo
+opencv-python
+Pillow
+numpy
+pandas
+tqdm
+matplotlib
